@@ -1,0 +1,17 @@
+Software Engineering Eligibility
+A typical software engineering position may require a bachelor's degree in computer science or a related field, programming skills, problem solving, and knowledge of software development practices.
+
+Natural Language Processing
+Natural Language Processing enables computers to process and understand human language. Applications include text classification, question answering, translation, information retrieval, and semantic search.
+
+Semantic Search
+Semantic search attempts to understand the meaning and intent of a query rather than relying only on exact keyword matches. Text embeddings can represent queries and documents in a shared vector space.
+
+RAG
+Retrieval-Augmented Generation combines information retrieval with language generation. Relevant documents are retrieved first and then supplied as context to a language model so that the generated answer can be grounded in the retrieved information.
+
+Vector Databases
+Vector databases store numerical embeddings and support similarity search. They are useful for retrieving semantically related documents efficiently.
+
+Transformer Models
+Transformer models use attention mechanisms to model relationships between tokens. Contextual representations help systems distinguish meanings based on surrounding words.
